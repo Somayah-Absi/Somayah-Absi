@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋 I am Somayah Absi.<br><img width="400" align="right" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"/>
+Hi👋 I am Somayah Absi.<br><img width="300" align="right" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"/>
 <br>🚀 Aspiring Full-stack Developer | Passionate about Innovation 🚀<br>💡 What I am good at?<br><br>-HTML/CSS: Crafting visually appealing and responsive layouts to enhance user experience.<br>-JavaScript: Leveraging the power of JS to create dynamic and interactive web applications.<br>-React: Building efficient and scalable front-end solutions to meet modern development demands.
 
 ## 🌐 Socials:
