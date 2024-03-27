@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Somayah-Absi/Somayah-Absi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ###🚀 Aspiring Full-stack Developer | Passionate about Innovation 🚀
 
