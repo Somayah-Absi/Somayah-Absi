@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🚀 Aspiring Full-stack Developer | Passionate about Innovation 🚀
+###🚀 Aspiring Full-stack Developer | Passionate about Innovation 🚀
 
 🎓 Fresh Computer Science graduate with a Bachelor's degree                                                                    
    💡 what I am good at?
